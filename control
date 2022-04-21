@@ -1,0 +1,9 @@
+Package: com.crazymind90.swiftuitweak
+Name: SwiftUITweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @CrazyMind90
+Author: @CrazyMind90
+Section: Tweaks
